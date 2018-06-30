@@ -5,7 +5,7 @@ The program analyzes several features and on the basis of said analysis, classif
 Indeed a small step but sufficient to demonstrate the power of machine learning (in this case, neural networks) and its applications in healthcare.
 
 ## Data set: Breast Cancer Wisconsin (Diagnostic).
-A. Attributes: ID number, Diagnosis - M: Malignant, B: Benign.
+A. Attributes: ID number and Diagnosis (M: Malignant, B: Benign).
 B. Number of features used: 10.
 - Radius (Mean of multiple radii).
 - Texture (std. deviation of grayscale values).
