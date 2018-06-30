@@ -16,7 +16,7 @@ Indeed a small step but sufficient to demonstrate the power of machine learning 
 - Concavity (Severity of concave parts of the contour).
 - Concave points (number of concave parts of the contour).
 - Symmetry.
-- Fractal dimension (coastline approximatio - 1).
+- Fractal dimension (coastline approximation - 1).
 
 Mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features.
 For example, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius. All feature values are recoded with four significant digits.
