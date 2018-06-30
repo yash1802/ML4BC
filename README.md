@@ -1,6 +1,6 @@
 # ML4BC
 
-An attempt towards the goal of improving the accuracy of and the time required for breast cancer diagnosis. More efficient the diagnosis, the earlier can doctors kick the tumour's a**. 
+An attempt towards the goal of improving the accuracy of and the time required for breast cancer diagnosis. More efficient the diagnosis, the earlier the doctors can kick the tumour's a**. 
 The program analyzes several features and on the basis of said analysis, classifies the tumour as either benign or (malignant) cancerous. 
 Indeed a small step but sufficient to demonstrate the power of machine learning (in this case, neural networks) and its applications in healthcare. 
 
